@@ -1,7 +1,7 @@
 Mix.install([
   {:tesla, "~> 1.4"},
   {:hackney, "~> 1.18"},
-  {:jason, "~> 1.3"}
+  {:jason, "~> 1.4"}
 ])
 
 defmodule PdfTablesApi do
